@@ -24,17 +24,20 @@ Tranform data accordingly to its type.
 In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a Relationship between the columns using Create Relationships option.
 
 Here the relationship between tables is called 'Star Schema'. Star schema is a mature modeling approach widely adopted by relational data warehouses. It is classified into fact table & dimension tables. In this model Sales and Return table are fact tables. Others table are dimension table.
-![image](https://github.com/arijeet-pal13/PortfolioProjects/assets/84266230/aeb3da22-2b14-4dfc-ac6c-fcf08f8b1875)
+![image](https://github.com/arijeet-pal13/AdventureWorks.Sales.Report/assets/84266230/0c0a4ea7-8330-4c3f-a80b-125fdcf9bc12)
+
 
 
 ### Creating Reports
 
 * This page represent Total orders , Return orders , Revenue by Products, Category,Subcategory and Location.
 
-![image](https://github.com/arijeet-pal13/PortfolioProjects/assets/84266230/5acc787a-50b6-4f86-9876-566d3d156661)
+![image](https://github.com/arijeet-pal13/AdventureWorks.Sales.Report/assets/84266230/c3364905-4c82-407d-b872-37e591483073)
 
-![image](https://github.com/arijeet-pal13/PortfolioProjects/assets/84266230/ff116526-9b4d-48a9-9b2d-2d737f193a1f)
+![image](https://github.com/arijeet-pal13/AdventureWorks.Sales.Report/assets/84266230/402588bb-c125-4790-b84c-cf2c2e62e617)
+
 
 * This page represent Customers Information.
 
-![image](https://github.com/arijeet-pal13/PortfolioProjects/assets/84266230/e2edf83a-94c5-422b-8a6f-aa88ed27170a)
+![image](https://github.com/arijeet-pal13/AdventureWorks.Sales.Report/assets/84266230/c0725c5f-1386-4b85-b988-0f00d7861631)
+
