@@ -17,7 +17,7 @@ Connect to following data from the Dataset file.
 * AdventureWorks_Sales_2016.csv
 * AdventureWorks_Sales_2015.csv
 
-Tranform data accordingly to its type.
+In Power Query Editor Transform and Clean all the data as needed then Load the data in Power BI.
 
 ### Data Model
 
